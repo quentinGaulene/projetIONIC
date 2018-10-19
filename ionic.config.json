@@ -1,0 +1,7 @@
+{
+  "name": "projetOne",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
